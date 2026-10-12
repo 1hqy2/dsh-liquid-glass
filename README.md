@@ -438,3 +438,7 @@ dsh plugin --profile desktop remove dsh-liquid-glass
 ## License
 
 MIT
+## 开源与创作说明
+本项目采用 MIT License 开源。
+本插件代码由 AI 辅助编写，本人对全部代码进行审阅、修改、测试，拥有本项目完整发布权。
+你可以自由复制、修改、分发本项目，遵守 MIT 许可证条款即可。
