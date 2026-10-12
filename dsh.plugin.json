@@ -1,0 +1,12 @@
+{
+  "name": "dsh-liquid-glass",
+  "description": "全局液态玻璃主题：backdrop-filter 实时模糊 + 动态径向渐变 + 1px 超细高光描边，浅色 60% / 深色 35% 不透明度，参数可实时调。",
+  "version": "1.0.0",
+  "entry": {
+    "name": "dsh-liquid-glass",
+    "inject": []
+  },
+  "client": {
+    "platform": "web"
+  }
+}
